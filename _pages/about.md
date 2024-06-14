@@ -13,7 +13,7 @@ Bio
 ======
 I am an incoming Ph.D. student from the Department of Computer Science at Rutgers University, advised by Prof. [Yongfeng Zhang](https://www.yongfeng.me/). 
 
-Previously, I received by bachelor degree at Zhejiang University and University of Illinois, Urbana-Champaign (UIUC), majored in Computer Engineering.
+Previously, I received my bachelor degree at Zhejiang University and University of Illinois, Urbana-Champaign (UIUC), majored in Computer Engineering.
 
 During these years, I'm very fortunate to be advised by Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) at UIUC, Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU, and Prof. [Chao Huang](https://sites.google.com/view/chaoh) at HKU.
 
