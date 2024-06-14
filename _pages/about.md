@@ -34,13 +34,17 @@ Large Language Models, Agent, Tool Learning, Data Mining, Recommender Systems.
 Publications
 ======
 TGOnline: Enhancing Temporal Graph Learning with Adaptive Online Meta-Learning
+
 Ruijie Wang, **Jingyuan Huang**, Yutong Zhang, Jinyang Li, Yufeng Wang, Wanyu Zhao, Shengzhong Liu, Charith Mendis and Tarek Abdelzaher.
-The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.
+
+*The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.*
 
 
 Representation and Extraction of Physics Knowledge Based on Knowledge Graph and Embedding-Combined Text Classification for Cooperative Learning
+
 Jialin Shang\*, **Jingyuan Huang**\*, Shihua Zeng\*, Jian Zhang, and Hongwei Wang
-IEEE 25th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2022.
+
+*IEEE 25th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2022.*
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/9776230/) 
 
