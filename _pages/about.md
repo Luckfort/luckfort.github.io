@@ -39,6 +39,7 @@ Ruijie Wang, **Jingyuan Huang**, Yutong Zhang, Jinyang Li, Yufeng Wang, Wanyu Zh
 
 *The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.*
 
+[Paper to Appear]
 
 Representation and Extraction of Physics Knowledge Based on Knowledge Graph and Embedding-Combined Text Classification for Cooperative Learning
 
@@ -46,7 +47,7 @@ Jialin Shang\*, **Jingyuan Huang**\*, Shihua Zeng\*, Jian Zhang, and Hongwei Wan
 
 *IEEE 25th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2022.*
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/9776230/) 
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9776230/) 
 
 (* indicates equal contributions)
 
