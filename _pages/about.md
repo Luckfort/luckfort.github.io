@@ -31,7 +31,7 @@ Large Language Models, Agent, Tool Learning, Data Mining, Recommender Systems.
 
 <!--img src="../images/wordcloud.jpg" width="500" height="500"-->
 
-Publications
+<!-- Publications
 ======
 TGOnline: Enhancing Temporal Graph Learning with Adaptive Online Meta-Learning
 
@@ -49,7 +49,7 @@ Jialin Shang\*, **Jingyuan Huang**\*, Shihua Zeng\*, Jian Zhang, and Hongwei Wan
 
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9776230/) 
 
-(* indicates equal contributions)
+(* indicates equal contributions) -->
 
 Academic Services
 ======
