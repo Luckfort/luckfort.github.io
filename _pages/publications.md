@@ -21,8 +21,14 @@ author_profile: true
   [[Paper]](https://doi.acm.org/?doi=3626772.3657791)
 
 * Representation and Extraction of Physics Knowledge Based on Knowledge Graph and Embedding-Combined Text Classification for Cooperative Learning <br />
-  Jialin Shang\*, **Jingyuan Huang**\*, Shihua Zeng\*, Jian Zhang, and Hongwei Wang <br />
+  Jialin Shang🌟, **Jingyuan Huang**🌟, Shihua Zeng🌟, Jian Zhang, and Hongwei Wang <br />
   *IEEE 25th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2022.* <br />
   [[Paper]](https://ieeexplore.ieee.org/abstract/document/9776230/) 
 
-(* indicates equal contributions)
+Preprint
+======
+* Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers? <br />
+  Mingyu Jin🌟, Qinkai Yu🌟, **Jingyuan Huang**🌟, Qingcheng Zeng, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang <br />
+  [[Paper]](https://arxiv.org/abs/2404.07066) 
+
+(🌟 indicates equal contributions)
