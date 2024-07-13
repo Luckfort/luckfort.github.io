@@ -13,9 +13,9 @@ Bio
 ======
 I am an incoming Ph.D. student from the Department of Computer Science at Rutgers University, advised by Prof. [Yongfeng Zhang](https://www.yongfeng.me/). 
 
-Previously, I received my bachelor degree at Zhejiang University and University of Illinois, Urbana-Champaign (UIUC), majored in Computer Engineering.
+Previously, I received my bachelor degree at Zhejiang University (ZJU) and University of Illinois, Urbana-Champaign (UIUC), majored in Computer Engineering.
 
-During these years, I'm very fortunate to be advised by Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) at UIUC, Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU, and Prof. [Chao Huang](https://sites.google.com/view/chaoh) at HKU.
+During my undergraduate years, I'm very fortunate to be advised by Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) at UIUC, Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU, and Prof. [Chao Huang](https://sites.google.com/view/chaoh) at HKU.
 
 Email
 ======
@@ -39,7 +39,7 @@ Ruijie Wang, **Jingyuan Huang**, Yutong Zhang, Jinyang Li, Yufeng Wang, Wanyu Zh
 
 *The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.*
 
-[Paper to Appear]
+[[Paper]](https://doi.acm.org/?doi=3626772.3657791)
 
 Representation and Extraction of Physics Knowledge Based on Knowledge Graph and Embedding-Combined Text Classification for Cooperative Learning
 
