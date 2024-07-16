@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jingyuan Huang's Personal Website"
+title: "Jingyuan Huang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,11 +11,11 @@ redirect_from:
 
 Bio
 ======
-I am an incoming Ph.D. student from the Department of Computer Science at Rutgers University, advised by Prof. [Yongfeng Zhang](https://www.yongfeng.me/). 
+I am an incoming Ph.D. student from the [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Yongfeng Zhang](https://www.yongfeng.me/). 
 
-Previously, I received my bachelor degree at Zhejiang University (ZJU) and University of Illinois, Urbana-Champaign (UIUC), majored in Computer Engineering.
+Previously, I received my bachelor degree at [Zhejiang University](https://www.zju.edu.cn/) (ZJU) and [University of Illinois, Urbana-Champaign](https://illinois.edu/) (UIUC), majored in [Computer Engineering](https://ece.illinois.edu/).
 
-During my undergraduate years, I'm very fortunate to be advised by Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) at UIUC, Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU, and Prof. [Chao Huang](https://sites.google.com/view/chaoh) at HKU.
+During my undergraduate years, I was very fortunate to be advised by Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) at UIUC, Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU, and Prof. [Chao Huang](https://sites.google.com/view/chaoh) at [HKU](https://www.hku.hk/).
 
 Email
 ======
