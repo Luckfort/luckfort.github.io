@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jingyuan Huang"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,6 +16,19 @@ I am an incoming Ph.D. student from the [Department of Computer Science](https:/
 Previously, I received my bachelor degree at [Zhejiang University](https://www.zju.edu.cn/) (ZJU) and [University of Illinois, Urbana-Champaign](https://illinois.edu/) (UIUC), majored in [Computer Engineering](https://ece.illinois.edu/).
 
 During my undergraduate years, I was very fortunate to be advised by Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) at UIUC, Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU, and Prof. [Chao Huang](https://sites.google.com/view/chaoh) at [HKU](https://www.hku.hk/).
+
+Education
+======
+
+**Rutgers University**, 2024 - Present
+* Ph.D. in Computer Science
+
+**Zhejiang University**, 2020 - 2024
+* B.E. in Electronics and Computer Engineering
+* Outstanding Graduate
+
+**University of Illinois, Urbana-Champaign**, 2020 - 2024
+* B.S.(Honors) in Computer Engineering
 
 Email
 ======
