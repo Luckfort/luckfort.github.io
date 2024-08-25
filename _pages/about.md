@@ -11,7 +11,7 @@ redirect_from:
 
 Bio
 ======
-I am an incoming Ph.D. student from the [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Yongfeng Zhang](https://www.yongfeng.me/). 
+I am a Ph.D. student from the [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Yongfeng Zhang](https://www.yongfeng.me/). 
 
 Previously, I received my bachelor degree at [Zhejiang University](https://www.zju.edu.cn/) (ZJU) and [University of Illinois, Urbana-Champaign](https://illinois.edu/) (UIUC), majored in [Computer Engineering](https://ece.illinois.edu/).
 
