@@ -11,11 +11,11 @@ redirect_from:
 
 Bio
 ======
-I am a Ph.D. student from the [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Yongfeng Zhang](https://www.yongfeng.me/). 
+I am a Ph.D. student from the [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), working with Prof. [Yongfeng Zhang](https://www.yongfeng.me/). 
 
 Previously, I received my bachelor degree at [Zhejiang University](https://www.zju.edu.cn/) (ZJU) and [University of Illinois, Urbana-Champaign](https://illinois.edu/) (UIUC), majored in [Computer Engineering](https://ece.illinois.edu/).
 
-During my undergraduate years, I was very fortunate to be advised by Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) at UIUC, Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU, and Prof. [Chao Huang](https://sites.google.com/view/chaoh) at [HKU](https://www.hku.hk/).
+During my undergraduate years, I was very fortunate to work with Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) at UIUC, Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU, and Prof. [Chao Huang](https://sites.google.com/view/chaoh) at [HKU](https://www.hku.hk/).
 
 Education
 ======
