@@ -32,6 +32,11 @@ Preprint
 
 ***
 
+* Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents <br />
+  Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang <br />
+  [[Paper]](https://arxiv.org/abs/2410.02644) [[Code]](https://github.com/agiresearch/ASB) 
+  
+
 * Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers? <br />
   Mingyu Jin🌟, Qinkai Yu🌟, **Jingyuan Huang**🌟, Qingcheng Zeng, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang <br />
   [[Paper]](https://arxiv.org/abs/2404.07066) [[Code]](https://github.com/Luckfort/CD) 
