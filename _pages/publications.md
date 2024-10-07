@@ -33,7 +33,7 @@ Preprint
 ***
 
 * Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents <br />
-  Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang <br />
+  Hanrong Zhang, **Jingyuan Huang**, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang <br />
   [[Paper]](https://arxiv.org/abs/2410.02644) [[Code]](https://github.com/agiresearch/ASB) 
   
 
