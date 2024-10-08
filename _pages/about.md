@@ -68,3 +68,8 @@ Teaching Assistant:
 
 - Rutgers CS 344: Design and Analysis of Computer Algorithms [[Link]](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-344-design-and-analysis-of-computer-algorithms)
 - ZJUI CS 101: Intro Computing: Engineering & Science [[Link]](https://mp.weixin.qq.com/s/sAR_Dl3H9tILCkyJy7miFQ)
+
+🚀Misc
+======
+- I love travel🌏🌎🌍, photography📸, swimming🏊‍ and Chinese calligraphy🖌🖊️ outside of my research.
+- 🥈Second Prize of Zhejiang University Photography Contest, 2023.
