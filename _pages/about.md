@@ -8,16 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<div>
-  <style type="text/css">
-    body{
-      background: url("https://github.com/Luckfort/explore_CD/blob/main/static/images/Bg.png") no-repeat center center fixed;
-                  -webkit-background-size: cover;
-                  -o-background-size: cover;                
-                  background-size: cover;
-    }
-  </style>
-</div>
 
 🔍Bio
 ======
