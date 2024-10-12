@@ -38,7 +38,7 @@ Preprint
   
 
 * Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers? <br />
-  Mingyu Jin🌟, Qinkai Yu🌟, **Jingyuan Huang**🌟, Qingcheng Zeng, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang <br />
-  [[Paper]](https://arxiv.org/abs/2404.07066) [[Code]](https://github.com/Luckfort/CD) 
+  Mingyu Jin🌟, Qinkai Yu🌟, **Jingyuan Huang**🌟, Qingcheng Zeng🌟, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang <br />
+  [[Paper]](https://arxiv.org/abs/2404.07066) [[Website]](https://luckfort.github.io/explore_CD/) 
 
 (🌟 indicates equal contributions)
