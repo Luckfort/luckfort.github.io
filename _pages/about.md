@@ -19,6 +19,8 @@ redirect_from:
   </style>
 </div>
 
+<font face="Times New Roman">
+
 🔍Bio
 ======
 
@@ -86,3 +88,5 @@ Teaching Assistant:
 
 - I love travel🌏🌎🌍, photography📸, swimming🏊‍ and Chinese calligraphy🖌🖊️ outside of my research.
 - 🥈Second Prize of Zhejiang University Photography Contest, 2023.
+
+</font>
