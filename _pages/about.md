@@ -19,20 +19,20 @@ redirect_from:
   </style>
 </div>
 
-<font face="Times New Roman">
 
-🔍Bio
+
+<font face="Times New Roman">🔍Bio</font>
 ======
 
 ***
 
-I am a Ph.D. student from the [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), working with Prof. [Yongfeng Zhang](https://www.yongfeng.me/). 
+<font face="Times New Roman">I am a Ph.D. student from the [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), working with Prof. [Yongfeng Zhang](https://www.yongfeng.me/). </font>
 
-Previously, I received my bachelor degree at [Zhejiang University](https://www.zju.edu.cn/) (ZJU) and [University of Illinois, Urbana-Champaign](https://illinois.edu/) (UIUC), majored in [Computer Engineering](https://ece.illinois.edu/).
+<font face="Times New Roman">Previously, I received my bachelor degree at [Zhejiang University](https://www.zju.edu.cn/) (ZJU) and [University of Illinois, Urbana-Champaign](https://illinois.edu/) (UIUC), majored in [Computer Engineering](https://ece.illinois.edu/).</font>
 
-During my undergraduate years, I was very fortunate to work with Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) at UIUC, Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU, and Prof. [Chao Huang](https://sites.google.com/view/chaoh) at [HKU](https://www.hku.hk/).
+<font face="Times New Roman">During my undergraduate years, I was very fortunate to work with Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) at UIUC, Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU, and Prof. [Chao Huang](https://sites.google.com/view/chaoh) at [HKU](https://www.hku.hk/).</font>
 
-📚Education
+<font face="Times New Roman">📚Education</font>
 ======
 
 ***
@@ -47,28 +47,28 @@ During my undergraduate years, I was very fortunate to work with Prof. [Tarek Ab
 **University of Illinois, Urbana-Champaign**, 2020 - 2024
 * B.S.(Honors) in Computer Engineering
 
-📬Email
+<font face="Times New Roman">📬Email</font>
 ======
 
 ***
 
-chy DOT huang AT rutgers DOT edu
+<font face="Times New Roman">chy DOT huang AT rutgers DOT edu</font>
 
 💬Language
 ======
 
 ***
 
-I speak Mandarin, Cantonese, and English.
+<font face="Times New Roman">I speak Mandarin, Cantonese, and English.</font>
 
 🔬Research Interests
 ======
 
 ***
 
-Large Language Models, Agent, Tool Learning, Data Mining, Recommender Systems.
+<font face="Times New Roman">Recommender Systems, Large Language Models, Agent,  Data Mining.</font>
 
-🌟Academic Services
+<font face="Times New Roman">🌟Academic Services</font>
 ======
 
 ***
@@ -81,12 +81,11 @@ Teaching Assistant:
 - Rutgers CS 344: Design and Analysis of Computer Algorithms [[Link]](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-344-design-and-analysis-of-computer-algorithms)
 - ZJUI CS 101: Intro Computing: Engineering & Science [[Link]](https://mp.weixin.qq.com/s/sAR_Dl3H9tILCkyJy7miFQ)
 
-🚀Misc
+<font face="Times New Roman">🚀Misc</font>
 ======
 
 ***
 
-- I love travel🌏🌎🌍, photography📸, swimming🏊‍ and Chinese calligraphy🖌🖊️ outside of my research.
-- 🥈Second Prize of Zhejiang University Photography Contest, 2023.
+- <font face="Times New Roman">I love travel🌏🌎🌍, photography📸, swimming🏊‍ and Chinese calligraphy🖌🖊️ outside of my research.</font>
+- <font face="Times New Roman">🥈Second Prize of Zhejiang University Photography Contest, 2023.</font>
 
-</font>
