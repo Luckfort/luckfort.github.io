@@ -21,19 +21,17 @@ redirect_from:
 
 
 
-<font face="Times New Roman">🔍Bio</font>
-======
+<font face="Times New Roman" size=6>🔍Bio</font>
 
 ***
 
-<font face="Times New Roman">I am a Ph.D. student from the [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), working with Prof. [Yongfeng Zhang](https://www.yongfeng.me/). </font>
+<font face="Times New Roman">I am a Ph.D. student from the</font> [<font face="Times New Roman">Department of Computer Science</font>](https://www.cs.rutgers.edu/) at [<font face="Times New Roman">Rutgers University</font>](https://www.rutgers.edu/) <font face="Times New Roman">, working with Prof.</font> [<font face="Times New Roman">Yongfeng Zhang</font>](https://www.yongfeng.me/). </font>
 
-<font face="Times New Roman">Previously, I received my bachelor degree at [Zhejiang University](https://www.zju.edu.cn/) (ZJU) and [University of Illinois, Urbana-Champaign](https://illinois.edu/) (UIUC), majored in [Computer Engineering](https://ece.illinois.edu/).</font>
+<font face="Times New Roman">Previously, I received my bachelor degree at</font> [Zhejiang University](https://www.zju.edu.cn/)<font face="Times New Roman"> (ZJU) <font face="Times New Roman">and</font> [University of Illinois, Urbana-Champaign](https://illinois.edu/) <font face="Times New Roman">(UIUC), majored in </font>[Computer Engineering](https://ece.illinois.edu/).</font>
 
-<font face="Times New Roman">During my undergraduate years, I was very fortunate to work with Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) at UIUC, Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU, and Prof. [Chao Huang](https://sites.google.com/view/chaoh) at [HKU](https://www.hku.hk/).</font>
+During my undergraduate years, I was very fortunate to work with Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) at UIUC, Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU, and Prof. [Chao Huang](https://sites.google.com/view/chaoh) at [HKU](https://www.hku.hk/).
 
-<font face="Times New Roman">📚Education</font>
-======
+<font face="Times New Roman" size=6>📚Education</font>
 
 ***
 
@@ -47,29 +45,25 @@ redirect_from:
 **University of Illinois, Urbana-Champaign**, 2020 - 2024
 * B.S.(Honors) in Computer Engineering
 
-<font face="Times New Roman">📬Email</font>
-======
+<font face="Times New Roman" size=6>📬Email</font>
 
 ***
 
 <font face="Times New Roman">chy DOT huang AT rutgers DOT edu</font>
 
-💬Language
-======
+<font face="Times New Roman" size=6>💬Language</font>
 
 ***
 
 <font face="Times New Roman">I speak Mandarin, Cantonese, and English.</font>
 
-🔬Research Interests
-======
+<font face="Times New Roman" size=6>🔬Research Interests</font>
 
 ***
 
 <font face="Times New Roman">Recommender Systems, Large Language Models, Agent,  Data Mining.</font>
 
-<font face="Times New Roman">🌟Academic Services</font>
-======
+<font face="Times New Roman" size=6>🌟Academic Services</font>
 
 ***
 
@@ -81,8 +75,7 @@ Teaching Assistant:
 - Rutgers CS 344: Design and Analysis of Computer Algorithms [[Link]](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-344-design-and-analysis-of-computer-algorithms)
 - ZJUI CS 101: Intro Computing: Engineering & Science [[Link]](https://mp.weixin.qq.com/s/sAR_Dl3H9tILCkyJy7miFQ)
 
-<font face="Times New Roman">🚀Misc</font>
-======
+<font face="Times New Roman" size=6>🚀Misc</font>
 
 ***
 
