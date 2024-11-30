@@ -30,6 +30,15 @@ Previously, I received my bachelor degree at [Zhejiang University](https://www.z
 
 During my undergraduate years, I was very fortunate to work with Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) at UIUC, Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU, and Prof. [Chao Huang](https://sites.google.com/view/chaoh) at [HKU](https://www.hku.hk/).
 
+🔥News
+======
+- **[Nov 2024]** One paper is accepted by **COLING 2025**.
+- **[Oct 2024]** Let's check our new version about the paper [Agent Security Bench (ASB)](https://arxiv.org/abs/2410.02644).
+- **[Sept 2024]** Start my Ph.D. journey.
+- **[Apr 2024]** Let's check our preprint: [Exploring Concept Depth](https://arxiv.org/abs/2404.07066).
+- **[Mar 2024]** One paper is accepted by **SIGIR 2024**.
+- ...
+
 📚Education
 ======
 
@@ -64,7 +73,7 @@ I speak Mandarin, Cantonese, and English.
 
 ***
 
-Large Language Models, Agent, Tool Learning, Data Mining, Recommender Systems.
+Large Language Models, LLM-based Agent, Data Mining, Recommender Systems.
 
 🌟Academic Services
 ======
