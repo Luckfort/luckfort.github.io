@@ -33,9 +33,9 @@ During my undergraduate years, I was very fortunate to work with Prof. [Tarek Ab
 🔥News
 ======
 - **[Nov 2024]** One paper is accepted by **COLING 2025**.
-- **[Oct 2024]** Let's check our new version about the paper [Agent Security Bench (ASB)](https://arxiv.org/abs/2410.02644).
-- **[Sept 2024]** Start my Ph.D. journey.
-- **[Apr 2024]** Let's check our preprint: [Exploring Concept Depth](https://arxiv.org/abs/2404.07066).
+- **[Oct 2024]** Check our preprint:[Agent Security Bench (ASB)](https://arxiv.org/abs/2410.02644).
+- **[Sept 2024]** Start my Ph.D. journey at Rutgers University.
+- **[Apr 2024]** Check our preprint: [Exploring Concept Depth](https://arxiv.org/abs/2404.07066).
 - **[Mar 2024]** One paper is accepted by **SIGIR 2024**.
 - ...
 
