@@ -26,7 +26,7 @@ author_profile: true
 
 * Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents <br />
   Hanrong Zhang, **Jingyuan Huang**, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang <br />
-  *The 13th International Conference on Learning Representations* <br />
+  *The 13th International Conference on Learning Representations (ICLR 2025)* <br />
   [[Paper]](https://arxiv.org/abs/2410.02644) [[Website]](https://luckfort.github.io/ASBench/) 
 
 ## 2024
