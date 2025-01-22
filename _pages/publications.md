@@ -24,6 +24,11 @@ author_profile: true
   *The 31st International Conference on Computational Linguistics (COLING 2025)* <br />
   [[Paper]](https://arxiv.org/abs/2404.07066) [[Website]](https://luckfort.github.io/explore_CD/) 
 
+* Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents <br />
+  Hanrong Zhang, **Jingyuan Huang**, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang <br />
+  *The 13th International Conference on Learning Representations* <br />
+  [[Paper]](https://arxiv.org/abs/2410.02644) [[Website]](https://luckfort.github.io/ASBench/) 
+
 ## 2024
 
 * TGOnline: Enhancing Temporal Graph Learning with Adaptive Online Meta-Learning <br />
@@ -38,14 +43,5 @@ author_profile: true
   *IEEE 25th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2022.* <br />
   [[Paper]](https://ieeexplore.ieee.org/abstract/document/9776230/) 
 
-Preprint
-======
-
-***
-
-* Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents <br />
-  Hanrong Zhang, **Jingyuan Huang**, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang <br />
-  [[Paper]](https://arxiv.org/abs/2410.02644) [[Code]](https://github.com/agiresearch/ASB) 
-  
 
 (🌟 indicates equal contributions)
