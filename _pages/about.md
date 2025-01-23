@@ -86,6 +86,7 @@ Conference Reviewer:
 
 Teaching Assistant: 
 
+- Rutgers CS 205: Introduction to Discrete Structures I [[Link]](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-205-introduction-to-discrete-structures-i)
 - Rutgers CS 344: Design and Analysis of Computer Algorithms [[Link]](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-344-design-and-analysis-of-computer-algorithms)
 - ZJUI CS 101: Intro Computing: Engineering & Science [[Link]](https://mp.weixin.qq.com/s/sAR_Dl3H9tILCkyJy7miFQ)
 
