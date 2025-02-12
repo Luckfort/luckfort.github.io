@@ -22,7 +22,7 @@ author_profile: true
 * Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers? <br />
   Mingyu Jin🌟, Qinkai Yu🌟, **Jingyuan Huang**🌟, Qingcheng Zeng🌟, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang <br />
   *The 31st International Conference on Computational Linguistics (COLING 2025)* <br />
-  [[Paper]](https://arxiv.org/abs/2404.07066) [[Website]](https://luckfort.github.io/explore_CD/) 
+  [[Paper]](https://aclanthology.org/2025.coling-main.37/) [[Website]](https://luckfort.github.io/explore_CD/) 
 
 * Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents <br />
   Hanrong Zhang, **Jingyuan Huang**, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang <br />
