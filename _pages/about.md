@@ -82,6 +82,7 @@ Large Language Models, LLM-based Agent, Data Mining, Recommender Systems.
 ***
 
 Conference Reviewer:
+- SIGIR 2025.
 - RecSys 2024, CIKM 2024.
 
 Teaching Assistant: 
