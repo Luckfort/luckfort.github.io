@@ -27,7 +27,7 @@ author_profile: true
 * Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents <br />
   Hanrong Zhang, **Jingyuan Huang**, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang <br />
   *The 13th International Conference on Learning Representations (ICLR 2025)* <br />
-  [[Paper]](https://arxiv.org/abs/2410.02644) [[Website]](https://luckfort.github.io/ASBench/)
+  [[Paper]](https://openreview.net/forum?id=V4y0CpX4hK) [[Website]](https://luckfort.github.io/ASBench/)
 
 * LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models <br />
   Xi Zhu, Haochen Xue, Ziwei Zhao, Wujiang Xu, **Jingyuan Huang**, Minghao Guo, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang <br />
