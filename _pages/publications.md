@@ -37,7 +37,7 @@ author_profile: true
 ## 2024
 
 * TGOnline: Enhancing Temporal Graph Learning with Adaptive Online Meta-Learning <br />
-  Ruijie Wang, **Jingyuan Huang**, Yutong Zhang, Jinyang Li, Yufeng Wang, Wanyu Zhao, Shengzhong Liu, Charith Mendis and Tarek Abdelzaher. <br />
+  Ruijie Wang, **Jingyuan Huang**, Yutong Zhang, Jinyang Li, Yufeng Wang, Wanyu Zhao, Shengzhong Liu, Charith Mendis and Tarek Abdelzaher <br />
   *The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.* <br />
   [[Paper]](https://doi.acm.org/?doi=3626772.3657791)
 
