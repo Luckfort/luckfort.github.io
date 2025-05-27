@@ -19,7 +19,7 @@ author_profile: true
 
 ## Preprints
 
-* DeSocial: Decentralized Social Network <br />
+* DeSocial: Blockchain-based Decentralized Social Networks <br />
   **Jingyuan Huang**, Xi Zhu, Minghao Guo, Yongfeng Zhang<br />
   *Preprint* <br />
   [Paper to Appear] [[Code]](https://github.com/agiresearch/DeSocial) 
