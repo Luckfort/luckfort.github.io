@@ -17,6 +17,18 @@ author_profile: true
 
 ***
 
+## Preprints
+
+* DeSocial: Decentralized Social Network <br />
+  **Jingyuan Huang**, Xi Zhu, Minghao Guo, Yongfeng Zhang<br />
+  *Preprint* <br />
+  [Paper to Appear] [Code to Appear]
+
+* LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models <br />
+  Xi Zhu🌟, Haochen Xue🌟, Ziwei Zhao, Wujiang Xu, **Jingyuan Huang**, Minghao Guo, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang <br />
+  *Preprint* <br />
+  [[Paper]](https://arxiv.org/abs/2503.03313) [[Code]](https://github.com/agiresearch/PromptGFM) 
+
 ## 2025
 
 * Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers? <br />
@@ -28,11 +40,6 @@ author_profile: true
   Hanrong Zhang, **Jingyuan Huang**, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang <br />
   *The 13th International Conference on Learning Representations (ICLR 2025)* <br />
   [[Paper]](https://openreview.net/forum?id=V4y0CpX4hK) [[Website]](https://luckfort.github.io/ASBench/)
-
-* LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models <br />
-  Xi Zhu, Haochen Xue, Ziwei Zhao, Wujiang Xu, **Jingyuan Huang**, Minghao Guo, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang <br />
-  *Preprint* <br />
-  [[Paper]](https://arxiv.org/abs/2503.03313) [[Code]](https://github.com/agiresearch/PromptGFM) 
 
 ## 2024
 

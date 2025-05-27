@@ -74,7 +74,7 @@ I speak Mandarin, Cantonese, and English.
 
 ***
 
-Large Language Models, LLM-based Agent, Data Mining, Recommender Systems.
+Large Language Models, LLM-based Agent, Recommender Systems, Decentralized AI.
 
 🌟Academic Services
 ======
