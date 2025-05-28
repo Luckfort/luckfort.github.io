@@ -32,6 +32,7 @@ During my undergraduate years, I was very fortunate to work with Prof. [Tarek Ab
 
 🔥News
 ======
+- **[May 2025]** Check our preprint: [DeSocial](https://arxiv.org/abs/2505.21388).
 - **[Jan 2025]** One paper is accepted by **ICLR 2025**, congrats to Hanrong!
 - **[Nov 2024]** One paper is accepted by **COLING 2025**.
 - **[Oct 2024]** Check our preprint: [Agent Security Bench (ASB)](https://arxiv.org/abs/2410.02644).
