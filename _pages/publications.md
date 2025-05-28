@@ -22,7 +22,7 @@ author_profile: true
 * DeSocial: Blockchain-based Decentralized Social Networks <br />
   **Jingyuan Huang**, Xi Zhu, Minghao Guo, Yongfeng Zhang<br />
   *Preprint* <br />
-  [Paper to Appear] [[Code]](https://github.com/agiresearch/DeSocial) 
+  [[Paper]](https://arxiv.org/abs/2505.21388) [[Code]](https://github.com/agiresearch/DeSocial) 
 
 * LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models <br />
   Xi Zhu🌟, Haochen Xue🌟, Ziwei Zhao, Wujiang Xu, **Jingyuan Huang**, Minghao Guo, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang <br />
