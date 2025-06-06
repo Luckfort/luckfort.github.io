@@ -26,9 +26,9 @@ redirect_from:
 
 I am a Ph.D. student from the [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), working with Prof. [Yongfeng Zhang](https://www.yongfeng.me/). 
 
-Previously, I received my bachelor degrees at [Zhejiang University](https://www.zju.edu.cn/) (ZJU) and [University of Illinois, Urbana-Champaign](https://illinois.edu/) (UIUC), majored in [Computer Engineering](https://ece.illinois.edu/).
+My research interest lies in collective intelligence (LLM-based Agents, Graph Recommendation, Decentralized AI): enabling large groups of individuals or agents to collaboratively reach better decisions.
 
-During my undergraduate years, I was very fortunate to work with Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) & Dr. [Ruijie Wang](https://wjerry5.github.io/) at UIUC, and Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU.
+Previously, I received my bachelor degrees at [Zhejiang University](https://www.zju.edu.cn/) (ZJU) and [University of Illinois, Urbana-Champaign](https://illinois.edu/) (UIUC), majored in [Computer Engineering](https://ece.illinois.edu/). During my undergraduate years, I was very fortunate to work with Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) & Dr. [Ruijie Wang](https://wjerry5.github.io/) at UIUC, and Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU.
 
 🔥News
 ======
