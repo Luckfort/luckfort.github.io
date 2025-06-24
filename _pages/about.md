@@ -101,4 +101,4 @@ Teaching Assistant:
 - 🥈Second Prize of Zhejiang University Photography Contest, 2023.
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tHmV3DBlpYlVLyqRPqHEAFT7mzwLe5bTWIB6kO33s8g&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=tHmV3DBlpYlVLyqRPqHEAFT7mzwLe5bTWIB6kO33s8g'></script>
