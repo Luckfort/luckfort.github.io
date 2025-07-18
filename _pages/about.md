@@ -97,8 +97,8 @@ Teaching Assistant:
 
 ***
 
-- I love travel🌏🌎🌍, photography📸, swimming🏊‍ and Chinese calligraphy🖌🖊️ outside of my research.
-- 🥈Second Prize of Zhejiang University Photography Contest, 2023.
+- I love travel🌏🌎🌍, swimming🏊‍ and Chinese calligraphy🖌🖊️ outside of my research.
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=tHmV3DBlpYlVLyqRPqHEAFT7mzwLe5bTWIB6kO33s8g'></script>
+<div style="position:absolute; left:-9999px;">
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=tHmV3DBlpYlVLyqRPqHEAFT7mzwLe5bTWIB6kO33s8g'></script>
+</div>
