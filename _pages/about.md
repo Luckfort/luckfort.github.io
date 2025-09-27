@@ -82,6 +82,9 @@ Large Language Models, LLM-based Agent, Recommender Systems, Decentralized AI.
 
 ***
 
+PC Member:
+- ICLR 2026.
+
 Conference Reviewer:
 - SIGIR 2025.
 - RecSys 2024, CIKM 2024.

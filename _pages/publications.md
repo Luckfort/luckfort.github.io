@@ -29,6 +29,11 @@ author_profile: true
   *Preprint* <br />
   [[Paper]](https://arxiv.org/abs/2503.03313) [[Code]](https://github.com/agiresearch/PromptGFM) 
 
+* ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network <br />
+  Minghao Guo, Xi Zhu, **Jingyuan Huang**, Kai Mei, Yongfeng Zhang <br />
+  *Preprint* <br />
+  [[Paper]](https://arxiv.org/abs/2508.00429)
+
 ## 2025
 
 * Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers? <br />
