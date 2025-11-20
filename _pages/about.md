@@ -32,6 +32,7 @@ Previously, I received my bachelor degrees at [Zhejiang University](https://www.
 
 🔥News
 ======
+- **[Oct 2025]** Invited as an ICLR 2026 and EACL 2026 reviewer.
 - **[May 2025]** Check our preprint: [DeSocial](https://arxiv.org/abs/2505.21388).
 - **[Jan 2025]** One paper is accepted by **ICLR 2025**, congrats to Hanrong!
 - **[Nov 2024]** One paper is accepted by **COLING 2025**.
@@ -83,7 +84,7 @@ Large Language Models, LLM-based Agent, Recommender Systems, Decentralized AI.
 ***
 
 PC Member:
-- ICLR 2026.
+- ICLR 2026, EACL 2026.
 
 Conference Reviewer:
 - SIGIR 2025.
