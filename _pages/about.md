@@ -33,7 +33,10 @@ Previously, I received my bachelor degrees at [Zhejiang University](https://www.
 🔥News
 ======
 - **[Jan 2026]** One paper is accepted by **EACL 2026**, congrats to Zihe!
-- **[Oct 2025]** Invited as an ICLR 2026 and EACL 2026 reviewer.
+- **[Jan 2026]** Invited to serve as a PC Member for HCRS@WWW 2026.
+- **[Jan 2026]** Invited to serve as a reviewer for TOIS.
+- **[Dec 2025]** Invited to serve as a PC Member for ES-Reasoning@ICLR 2026.
+- **[Oct 2025]** Invited to serve as a reviewer for ICLR 2026 and EACL 2026.
 - **[May 2025]** Check our preprint: [DeSocial](https://arxiv.org/abs/2505.21388).
 - **[Jan 2025]** One paper is accepted by **ICLR 2025**, congrats to Hanrong!
 - **[Nov 2024]** One paper is accepted by **COLING 2025**.
