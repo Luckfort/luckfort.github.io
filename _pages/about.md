@@ -34,7 +34,6 @@ Previously, I received my bachelor degrees at [Zhejiang University](https://www.
 ======
 - **[Jan 2026]** One paper is accepted by **EACL 2026**, congrats to Zihe!
 - **[Jan 2026]** Invited to serve as a PC Member for HCRS@WWW 2026.
-- **[Jan 2026]** Invited to serve as a reviewer for TOIS.
 - **[Dec 2025]** Invited to serve as a PC Member for ES-Reasoning@ICLR 2026.
 - **[Oct 2025]** Invited to serve as a reviewer for ICLR 2026 and EACL 2026.
 - **[May 2025]** Check our preprint: [DeSocial](https://arxiv.org/abs/2505.21388).
@@ -85,7 +84,7 @@ Large Language Models, LLM-based Agent, Recommender Systems, Decentralized AI.
 ***
 
 PC Member:
-- ICLR 2026, EACL 2026.
+- ICLR 2026, EACL 2026, HCRS@WWW 2026, ES-Reasoning@ICLR 2026.
 
 Conference Reviewer:
 - SIGIR 2025.
