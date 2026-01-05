@@ -26,20 +26,18 @@ redirect_from:
 
 I am a Ph.D. student from the [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), working with Prof. [Yongfeng Zhang](https://www.yongfeng.me/). 
 
-My research interest lies in collective intelligence (LLM-based Agents, Graph Recommendation, Decentralized AI): enabling large groups of individuals or agents to collaboratively reach better decisions.
+My research interest lies in LLM-based Agents, Agentic Recommender Systems, Agentic Memory.
 
 Previously, I received my bachelor degrees at [Zhejiang University](https://www.zju.edu.cn/) (ZJU) and [University of Illinois, Urbana-Champaign](https://illinois.edu/) (UIUC), majored in [Computer Engineering](https://ece.illinois.edu/). During my undergraduate years, I was very fortunate to work with Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) & Prof. [Ruijie Wang](https://wjerry5.github.io/) at UIUC, and Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang) at ZJU.
 
 🔥News
 ======
+- **[Jan 2026]** One paper is accepted by **EACL 2026**, congrats to Zihe!
 - **[Oct 2025]** Invited as an ICLR 2026 and EACL 2026 reviewer.
 - **[May 2025]** Check our preprint: [DeSocial](https://arxiv.org/abs/2505.21388).
 - **[Jan 2025]** One paper is accepted by **ICLR 2025**, congrats to Hanrong!
 - **[Nov 2024]** One paper is accepted by **COLING 2025**.
-- **[Oct 2024]** Check our preprint: [Agent Security Bench (ASB)](https://arxiv.org/abs/2410.02644).
 - **[Sept 2024]** Start my Ph.D. journey at Rutgers University.
-- **[Apr 2024]** Check our preprint: [Exploring Concept Depth](https://arxiv.org/abs/2404.07066).
-- **[Mar 2024]** One paper is accepted by **SIGIR 2024**, congrats to Ruijie!
 - ...
 
 📚Education

@@ -17,6 +17,12 @@ author_profile: true
 
 ***
 
+## Agentic AI and Memory-Augmented Systems
+
+* H-Mem: Hybrid Multi-Dimensional Memory Management for Long-Context Conversational Agents <br />
+  Zihe Ye, **Jingyuan Huang**, Weixin Chen, Yongfeng Zhang <br />
+  *The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026).*
+
 ## LLM and LLM Agents
 
 * LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models <br />
