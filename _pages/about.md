@@ -56,7 +56,7 @@ Previously, I received my bachelor degrees at [Zhejiang University](https://www.
 * Outstanding Graduate
 
 **University of Illinois, Urbana-Champaign**, 2020 - 2024
-* B.S.(Honors) in Computer Engineering
+* B.S. in Computer Engineering
 
 📬Email
 ======
