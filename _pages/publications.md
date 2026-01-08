@@ -48,10 +48,10 @@ author_profile: true
 
 ## Graph Machine Learning
 
-* DeSocial: Blockchain-based Decentralized Social Networks <br />
-  **Jingyuan Huang**, Xi Zhu, Minghao Guo, Yongfeng Zhang<br />
+* From Aggregation to Selection: User-Validated Distributed Social Recommendation <br />
+  **Jingyuan Huang**, Dan Luo, Zihe Ye, Weixin Chen, Minghao Guo, Yongfeng Zhang<br />
   *Preprint* <br />
-  [[Paper]](https://arxiv.org/abs/2505.21388) [[Website]](https://luckfort.github.io/DeSocial-project/) 
+  [[Paper]]() 
 
 * TGOnline: Enhancing Temporal Graph Learning with Adaptive Online Meta-Learning <br />
   Ruijie Wang, **Jingyuan Huang**, Yutong Zhang, Jinyang Li, Yufeng Wang, Wanyu Zhao, Shengzhong Liu, Charith Mendis and Tarek Abdelzaher <br />
