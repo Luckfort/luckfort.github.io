@@ -35,11 +35,12 @@ Previously, I received my bachelor degrees at [Zhejiang University](https://www.
 - **[Jan 2026]** DeSocial Paper *"From Aggregation to Selection: User-Validated Distributed Social Recommendation"*  
   is selected as <span style="color:#0000ff; font-weight:bold;">Oral Presentation</span> at *The 2nd Human-Centered Recommender Systems Workshop @ WWW 2026*.
 - **[Jan 2026]** Two papers are accepted by **HCRS@WWW 2026**. 
-- **[Jan 2026]** Invited to serve as a reviewer for ACL 2026.
+- **[Jan 2026]** Invited to serve as a PC Member for ACL 2026.
 - **[Jan 2026]** One paper is accepted by **EACL 2026**.
 - **[Jan 2026]** Invited to serve as a PC Member for HCRS@WWW 2026.
 - **[Dec 2025]** Invited to serve as a PC Member for ES-Reasoning@ICLR 2026.
-- **[Oct 2025]** Invited to serve as a reviewer for ICLR 2026 and EACL 2026.
+- **[Oct 2025]** Invited to serve as a PC Member for EACL 2026.
+- **[Oct 2025]** Invited to serve as a PC Member for ICLR 2026.
 - **[May 2025]** Check our preprint: [DeSocial](https://arxiv.org/abs/2505.21388).
 - **[Jan 2025]** One paper is accepted by **ICLR 2025**.
 - **[Nov 2024]** One paper is accepted by **COLING 2025**.
