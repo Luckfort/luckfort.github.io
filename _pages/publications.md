@@ -17,6 +17,18 @@ author_profile: true
 
 ***
 
+## Recommender Systems
+
+* From Aggregation to Selection: User-Validated Distributed Social Recommendation <br />
+  **Jingyuan Huang**, Dan Luo, Zihe Ye, Weixin Chen, Minghao Guo, Yongfeng Zhang<br />
+  *(Oral) The 2nd Workshop on Human-Centered Recommender Systems, WWW 2026.* <br />
+  [[Paper]]() 
+
+* TGOnline: Enhancing Temporal Graph Learning with Adaptive Online Meta-Learning <br />
+  Ruijie Wang, **Jingyuan Huang**, Yutong Zhang, Jinyang Li, Yufeng Wang, Wanyu Zhao, Shengzhong Liu, Charith Mendis and Tarek Abdelzaher <br />
+  *The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.* <br />
+  [[Paper]](https://doi.acm.org/?doi=3626772.3657791)
+
 ## Agentic AI and Memory-Augmented Systems
 
 * MemRec: Collaborative Memory-Augmented Agentic Recommender System <br />
@@ -49,18 +61,5 @@ author_profile: true
   Mingyu Jin🌟, Qinkai Yu🌟, **Jingyuan Huang**🌟, Qingcheng Zeng🌟, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang <br />
   *The 31st International Conference on Computational Linguistics (COLING 2025)* <br />
   [[Paper]](https://aclanthology.org/2025.coling-main.37/) [[Website]](https://luckfort.github.io/explore_CD/) 
-
-## Graph Machine Learning
-
-* From Aggregation to Selection: User-Validated Distributed Social Recommendation <br />
-  **Jingyuan Huang**, Dan Luo, Zihe Ye, Weixin Chen, Minghao Guo, Yongfeng Zhang<br />
-  *(Oral) The 2nd Workshop on Human-Centered Recommender Systems, WWW 2026.* <br />
-  [[Paper]]() 
-
-* TGOnline: Enhancing Temporal Graph Learning with Adaptive Online Meta-Learning <br />
-  Ruijie Wang, **Jingyuan Huang**, Yutong Zhang, Jinyang Li, Yufeng Wang, Wanyu Zhao, Shengzhong Liu, Charith Mendis and Tarek Abdelzaher <br />
-  *The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.* <br />
-  [[Paper]](https://doi.acm.org/?doi=3626772.3657791)
-
 
 (🌟 indicates equal contributions)
