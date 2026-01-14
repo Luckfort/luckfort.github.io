@@ -19,6 +19,11 @@ author_profile: true
 
 ## Agentic AI and Memory-Augmented Systems
 
+* MemRec: Collaborative Memory-Augmented Agentic Recommender System <br />
+  Weixin Chen, Yuhan Zhao, **Jingyuan Huang**, Zihe Ye, Clark Mingxuan Ju, Tong Zhao, Neil Shah, Li Chen, Yongfeng Zhang <br />
+  *Preprint* <br />
+  [[Paper]](https://arxiv.org/pdf/2601.08816) [[Website]](https://memrec.weixinchen.com/)
+
 * H-Mem: Hybrid Multi-Dimensional Memory Management for Long-Context Conversational Agents <br />
   Zihe Ye, **Jingyuan Huang**, Weixin Chen, Yongfeng Zhang <br />
   *The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026).*
