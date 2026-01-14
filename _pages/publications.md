@@ -37,14 +37,13 @@ author_profile: true
 
 * ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network <br />
   Minghao Guo, Xi Zhu, Haochen Xue, Chong Zhang, Shuhang Lin, **Jingyuan Huang**, Ziyi Ye, Yongfeng Zhang <br />
-  *Preprint* <br />
+  *The 2nd Workshop on Human-Centered Recommender Systems, WWW 2026.* <br />
   [[Paper]](https://arxiv.org/abs/2508.00429)
 
 * Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents <br />
   Hanrong Zhang, **Jingyuan Huang**, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang <br />
   *The 13th International Conference on Learning Representations (ICLR 2025)* <br />
   [[Paper]](https://openreview.net/forum?id=V4y0CpX4hK) [[Website]](https://luckfort.github.io/ASBench/)
-
 
 * Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers? <br />
   Mingyu Jin🌟, Qinkai Yu🌟, **Jingyuan Huang**🌟, Qingcheng Zeng🌟, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang <br />
@@ -55,7 +54,7 @@ author_profile: true
 
 * From Aggregation to Selection: User-Validated Distributed Social Recommendation <br />
   **Jingyuan Huang**, Dan Luo, Zihe Ye, Weixin Chen, Minghao Guo, Yongfeng Zhang<br />
-  *Preprint* <br />
+  *(Oral) The 2nd Workshop on Human-Centered Recommender Systems, WWW 2026.* <br />
   [[Paper]]() 
 
 * TGOnline: Enhancing Temporal Graph Learning with Adaptive Online Meta-Learning <br />
