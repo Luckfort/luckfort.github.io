@@ -37,6 +37,7 @@ Previously, I received my bachelor degrees at [Zhejiang University](https://www.
 - **[Jan 2026]** Two papers are accepted by **HCRS@WWW 2026**. 
 - **[Jan 2026]** Invited to serve as a PC Member for ACL 2026.
 - **[Jan 2026]** One paper is accepted by **EACL 2026**.
+- **[Jan 2026]** Invited to serve as a Journal Reviewer for ACM TOIS.
 - **[Jan 2026]** Invited to serve as a PC Member for HCRS@WWW 2026.
 - **[Dec 2025]** Invited to serve as a PC Member for ES-Reasoning@ICLR 2026.
 - **[Oct 2025]** Invited to serve as a PC Member for EACL 2026.
@@ -87,6 +88,9 @@ Large Language Models, LLM-based Agent, Recommender Systems, Agentic Memory.
 ======
 
 ***
+
+Journal Reviewer:
+- ACM TOIS.
 
 PC Member:
 - ACL 2026, ICLR 2026, EACL 2026, HCRS@WWW 2026, ES-Reasoning@ICLR 2026.
