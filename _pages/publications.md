@@ -22,7 +22,7 @@ author_profile: true
 * [WWW '26 HCRS] From Aggregation to Selection: User-Validated Distributed Social Recommendation <br />
   **Jingyuan Huang**, Dan Luo, Zihe Ye, Weixin Chen, Minghao Guo, Yongfeng Zhang<br />
   <span style="color:#0000ff; font-weight:bold;">*(Oral)*</span> *The 2nd Workshop on Human-Centered Recommender Systems, WWW 2026.* <br />
-  [[Paper]]() 
+  [[Paper]](https://arxiv.org/abs/2505.21388) [[Code]](https://github.com/agiresearch/DeSocial)
 
 * [SIGIR '24] TGOnline: Enhancing Temporal Graph Learning with Adaptive Online Meta-Learning <br />
   Ruijie Wang, **Jingyuan Huang**, Yutong Zhang, Jinyang Li, Yufeng Wang, Wanyu Zhao, Shengzhong Liu, Charith Mendis and Tarek Abdelzaher <br />
@@ -38,7 +38,7 @@ author_profile: true
 * MemRec: Collaborative Memory-Augmented Agentic Recommender System <br />
   Weixin Chen, Yuhan Zhao, **Jingyuan Huang**, Zihe Ye, Clark Mingxuan Ju, Tong Zhao, Neil Shah, Li Chen, Yongfeng Zhang <br />
   *Preprint* <br />
-  [[Paper]](https://arxiv.org/pdf/2601.08816) [[Website]](https://memrec.weixinchen.com/)
+  [[Paper]](https://arxiv.org/abs/2601.08816) [[Website]](https://memrec.weixinchen.com/)
 
 ## LLM and LLM Agents
 
