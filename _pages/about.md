@@ -32,6 +32,8 @@ Previously, I received my bachelor degrees at [Zhejiang University](https://www.
 
 🔥News
 ======
+- **[Jan 2026]** Invited to serve as a PC Member for ICML 2026.
+- **[Jan 2026]** Invited to serve as a PC Member for ICWSM 2026.
 - **[Jan 2026]** DeSocial Paper *"From Aggregation to Selection: User-Validated Distributed Social Recommendation"*  
   is selected as <span style="color:#0000ff; font-weight:bold;">Oral Presentation</span> at *The 2nd Human-Centered Recommender Systems Workshop @ WWW 2026*.
 - **[Jan 2026]** Two papers are accepted by **HCRS@WWW 2026**. 
@@ -93,7 +95,7 @@ Journal Reviewer:
 - ACM TOIS.
 
 PC Member:
-- ACL 2026, ICLR 2026, EACL 2026, HCRS@WWW 2026, ES-Reasoning@ICLR 2026.
+- ICML 2026, ACL 2026, ICLR 2026, ICWSM 2026, EACL 2026, HCRS@WWW 2026, ES-Reasoning@ICLR 2026.
 
 Conference Reviewer:
 - SIGIR 2025.
@@ -101,6 +103,7 @@ Conference Reviewer:
 
 Teaching Assistant: 
 
+- Rutgers CS 210: Data Management for Data Science [[Link]](https://ds.sas.rutgers.edu/course-details/01-198-210-data-management-for-data-science)
 - Rutgers CS 205: Introduction to Discrete Structures I [[Link]](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-205-introduction-to-discrete-structures-i)
 - Rutgers CS 344: Design and Analysis of Computer Algorithms [[Link]](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-344-design-and-analysis-of-computer-algorithms)
 - ZJUI CS 101: Intro Computing: Engineering & Science [[Link]](https://mp.weixin.qq.com/s/sAR_Dl3H9tILCkyJy7miFQ)
